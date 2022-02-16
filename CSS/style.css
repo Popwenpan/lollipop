@@ -1,0 +1,47 @@
+h1{
+    color: #9c30c7;
+}
+
+p {
+    color:chocolate;
+    background-color: darkgray;
+    font-weight: normal
+    text-transform:none;
+    font-style:normal;
+    line-height:normal;
+    text-decoration:underline;
+}
+
+body{
+    background-color: rgb(226, 201, 120);
+}
+
+#citation {
+    color:rgb(177, 8, 64)
+    background: blue;
+}
+    
+a {
+    font-size:100px;
+}
+
+a:visited {
+    color:aqua;
+}
+
+a:hover{
+    color:rgb(190, 5, 5)
+}
+
+#container {
+    background: blue;
+    border-style: dotted;
+    border-color: cadetblue;
+    border-width: 10px;
+    width: 300px;
+}
+
+img{
+    width:400px;
+    height:200px;
+}
